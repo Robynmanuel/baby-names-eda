@@ -88,6 +88,7 @@ Requirements: Wolfram Mathematica installed locally.
 Clone the repository:
 
 git clone https://github.com/your-username/baby-names-eda.git
+
 Open BabyNamesEDA.nb in Wolfram Mathematica.
 
 Evaluate cells sequentially to see the analysis.
