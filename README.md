@@ -65,8 +65,6 @@ baby-names-eda/
 
 ├── README.md                       # Project Documentation
 
-└── .gitignore                      # Git config (optional)
-
 
 **Project Progress**
 
